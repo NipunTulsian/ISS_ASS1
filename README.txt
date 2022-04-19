@@ -46,6 +46,6 @@ chmod +x <shell file>
 ./<shell file>
 <input>
 
-github repo: 
+github repo: https://github.com/NipunTulsian/ISS_ASS1.git
 
 
