@@ -1,0 +1,1 @@
+cat Test.txt | wc -w

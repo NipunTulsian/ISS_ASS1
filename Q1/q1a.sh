@@ -1,0 +1,1 @@
+(tr -d '\n' < quotes.txt) > out.txt

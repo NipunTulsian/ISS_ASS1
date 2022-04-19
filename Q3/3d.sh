@@ -1,0 +1,1 @@
+awk '$0="Line No:"NR" - Count of Words:"NF' Test.txt

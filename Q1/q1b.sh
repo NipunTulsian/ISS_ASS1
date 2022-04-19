@@ -1,0 +1,1 @@
+(sort -u quotes.txt) > out2.txt

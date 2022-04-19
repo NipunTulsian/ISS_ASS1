@@ -1,0 +1,1 @@
+cat quotes.txt |tr ' ' '\n' | sort | uniq -c | awk '{print $2 " - " $1}' > out.txt
